@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # CI/CD & DevOps — Series Hub
 
 From a pull request to production: GitHub, continuous integration with GitHub Actions and Jenkins, Docker from the first image to orchestration, deploying web apps and microservices, and the cloud service models underneath.
